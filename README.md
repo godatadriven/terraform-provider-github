@@ -1,3 +1,7 @@
+**MOVED THIS TO [PERSONAL GITHUB](https://github.com/JCZuurmond/terraform-provider-github) TO USE ACTIONS**
+
+===========================================================================
+
 # Terraform provider for Github
 This repository is a Terraform provider for Github.
 
